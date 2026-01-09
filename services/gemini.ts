@@ -1,7 +1,7 @@
 import { GoogleGenAI } from "@google/genai";
 
 // Use the provided key as a fallback if the environment variable is missing
-const API_KEY = process.env.API_KEY || "AIzaSyDm9sZ8HSEIv7_Z6Y3us85uykGdr7OIBxA";
+const API_KEY = process.env.API_KEY ||
 
 /**
  * Uses Gemini 3 Flash to enhance the user's simple prompt into a detailed visual description.
