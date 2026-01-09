@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Storyboard Studio",
+  "description": "A specialized tool using Gemini 3 Flash for prompt refinement and Gemini 3 Pro Image for synthesizing high-fidelity storyboards.",
+  "requestFramePermissions": []
+}
